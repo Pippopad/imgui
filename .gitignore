@@ -1,6 +1,8 @@
 ## OSX artifacts
 .DS_Store
 
+bin
+
 ## Dear ImGui artifacts
 imgui.ini
 
@@ -20,6 +22,7 @@ ipch
 *.log
 *.pdb
 *.ilk
+*.vcxproj
 *.user
 *.sdf
 *.suo
